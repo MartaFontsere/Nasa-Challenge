@@ -64,20 +64,20 @@ Visit our website: [Cosmic Explorer](https://cosmic-explorer.org/)
 
 
 
-## 🙌 Acknowledgments
+## Acknowledgments 🙌
 
 - We thank NASA for providing the data and inspiration for this project.
 - Thanks to the organizers of the NASA Hackathon for this incredible opportunity.
 - A special thanks to Campus 42 Barcelona for hosting the Hackathon and providing us with invaluable support.
 
 
-## 📂 Table of Contents
+## Table of Contents 📂
 
-- [NASA Space App Challenge](#-nasa-space-app-challenge)
-- [Cosmic Explorer](#-cosmic-explorer)
-- [Features](#-features)
-- [Technologies](#-technologies)
-- [Usage](#-usage)
-- [Installation](#-installation)
-- [Team](#-team)
-- [Acknowledgments](#-acknowledgments)
+- [NASA Space App Challenge](#nasa-space-app-challenge-)
+- [COSMIC-EXPLORER](#cosmic-explorer-)
+- [Features](#features-)
+- [Technologies](#technologies-)
+- [Usage](#usage-)
+- [Installation](#installation-)
+- [Team](#team-)
+- [Acknowledgments](#acknowledgments-)
