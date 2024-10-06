@@ -49,10 +49,15 @@ Visit our website: [Cosmic Explorer](https://cosmic-explorer.org/)
 
 
 ## 👫👫 Team
--**Marta Fontsere** [GitHub](https://github.com/MartaFontsere)
--**Marc Arza** [GitHub](https://github.com/codemarc42)
--**Miriam Fernandez** [GitHub](https://github.com/MiriamFernandezPerez)
--**Jon Olibares** [GitHub](https://github.com/joolibar)
+
+- **Marta Fontsere** [GitHub](https://github.com/MartaFontsere)
+
+- **Marc Arza** [GitHub](https://github.com/codemarc42)
+
+- **Miriam Fernandez** [GitHub](https://github.com/MiriamFernandezPerez)
+
+- **Jon Olibares** [GitHub](https://github.com/joolibar)
+
 
 
 ## 🙌 Acknowledgments
