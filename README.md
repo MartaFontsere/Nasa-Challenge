@@ -6,7 +6,7 @@ Welcome to COSMIC EXPLORER, our exciting project developed during the **NASA Spa
 
 This innovative, gamified, and inclusive educational tool is designed to make the most of the available data on exoplanets. Through this project, we aim to transform the learning paradigm and inspire new generations to invest in the future of science and space exploration.
 
-![Cosmic Explorer WebSite](https://github.com/miusuario/mirepositorio/blob/main/mi-imagen.png)
+![Cosmic Explorer WebSite](https://github.com/MartaFontsere/Nasa-Challenge/blob/main/src_images/Screenshot%20from%202024-10-06%2021-50-47.png)
 
 The adventure begins by navigating through space, where an onboard robot informs us of a navigation system failure that prevents our return to the base. As astronauts, we take the initiative to ask the robot to guide us through the stars and known constellations. Using a gamified interface, we will be challenged to identify various constellations within our Solar System. Once the mission is completed, we’ll be able to orient ourselves and make our way back.
 
