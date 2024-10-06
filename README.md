@@ -10,16 +10,19 @@ This innovative, gamified, and inclusive educational tool is designed to make th
 
 The adventure begins by navigating through space, where an onboard robot informs us of a navigation system failure that prevents our return to the base. As astronauts, we take the initiative to ask the robot to guide us through the stars and known constellations. Using a gamified interface, we will be challenged to identify various constellations within our Solar System. Once the mission is completed, we’ll be able to orient ourselves and make our way back.
 
+<div style="text-align:center;">
 <img src="https://github.com/MartaFontsere/Nasa-Challenge/blob/main/src-videos/7-ezgif.com-video-to-gif-converter.gif" alt="Educational Game" style="width:100%; height:auto;"/>
-
-
+</div>
+<div style="text-align:center;">
 <img src="https://github.com/MartaFontsere/Nasa-Challenge/blob/main/src-videos/6-ezgif.com-video-to-gif-converter.gif" alt="Educational Game" style="width:100%; height:auto;"/>
+</div>
 
 Thanks to this intriguing journey, NASA will open the doors for us to explore exoplanets thousands of light-years away. There, we’ll carry out research missions and create a constellation map to facilitate future explorations.
 
 The platform will feature an interactive screen where exoplanets will be visualized orbiting in space, displaying their topography and terrain, along with relevant information about each one. We will have the option to explore randomly or search for a specific exoplanet and, once chosen, travel to it to begin our exploration and start drawing our constellations.
-
+<div style="text-align:center;">
 <img src="https://github.com/MartaFontsere/Nasa-Challenge/blob/main/src-videos/5-ezgif.com-video-to-gif-converter.gif" alt="Exoplanets" style="width:100%; height:auto;"/>
+</div>
 
 Additionally, we propose implementing a constellation registration system in a database, allowing users to register their constellations. Through a global contest, each constellation can be voted on, with the opportunity for NASA to approve and add it to the exoplanet constellation map.
 
