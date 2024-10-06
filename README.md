@@ -1,6 +1,6 @@
-# 🚀 NASA Space App Challenge
+# NASA Space App Challenge 🚀 
 
-## 🌌 [COSMIC-EXPLORER] 
+## [COSMIC-EXPLORER] 🌌 
 
 Welcome to COSMIC EXPLORER, our exciting project developed during the **NASA Space Challenge 2024** !
 
@@ -21,7 +21,7 @@ Additionally, we propose implementing a constellation registration system in a d
 Ready for the adventure?
 
 
-## 🌟 Features
+## Features 🌟 
 
 - 🌍 **Spatial Data Analysis**
 For development, we utilized NASA's exoplanet datasets crossed with the NASA Exoplanets Archive to find the stars and their positions relative to the exoplanet. By transforming this data, we can convert it into three-dimensional coordinates for visualizing how the stars would appear from that exoplanet in our applications. Other data from the exoplanets will be used to feed an AI model that can represent an approximate visualization of how the planet would look.
@@ -32,7 +32,7 @@ Once the data is obtained, we use different platforms—web, mobile, and VR—to
 - 🛰️ **Educational Tool** 
 Through gamification, we aim to blend gaming and immersive experience to entertain, educate, and foster a passion for science in new generations.
 
-## 🚀 Technologies
+## Technologies 🚀 
 
 - **Languages:** HTML, CSS, JavaScript, PHP, Python, mySQL
 - **Libraries:** webGL
@@ -41,18 +41,18 @@ Through gamification, we aim to blend gaming and immersive experience to enterta
 - **Tools:** Git, Illustrator, Photoshop, Premiere, AfterEffects
 
 
-## 🖱️ Usage
+## Usage 🖱️
 Visit our website: [Cosmic Explorer](https://cosmic-explorer.org/)
 ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-orange)
 
 
-## 🛠️ Installation
+## Installation 🛠️
 1. Clone this repository:
    ```bash
    https://github.com/MartaFontsere/Nasa-Challenge.git
 
 
-## 👫👫 Team
+## Team 👫👫 
 
 - **Marta Fontsere** [GitHub](https://github.com/MartaFontsere)
 
@@ -73,11 +73,11 @@ Visit our website: [Cosmic Explorer](https://cosmic-explorer.org/)
 
 ## 📂 Table of Contents
 
-- [NASA Space App Challenge](#🚀-nasa-space-app-challenge)
-- [Cosmic Explorer](#🌌-cosmic-explorer)
-- [Features](#🌟-features)
-- [Technologies](#🚀-technologies)
-- [Usage](#🖱️-usage)
-- [Installation](#🛠️-installation)
-- [Team](#👫-team)
-- [Acknowledgments](#🙌-acknowledgments)
+- [NASA Space App Challenge](#-nasa-space-app-challenge)
+- [Cosmic Explorer](#-cosmic-explorer)
+- [Features](#-features)
+- [Technologies](#-technologies)
+- [Usage](#-usage)
+- [Installation](#-installation)
+- [Team](#-team)
+- [Acknowledgments](#-acknowledgments)
